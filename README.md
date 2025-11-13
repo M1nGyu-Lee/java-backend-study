@@ -1,6 +1,3 @@
-# java-backend-study
-Java Spring Boot backend
-
 # Java Backend Study
 
 Java와 Spring Boot를 학습하며 만든 백엔드 학습용 및 포트폴리오 프로젝트 모음입니다.  
@@ -26,5 +23,4 @@ cd java-backend-study/project
 
 2. Spring Boot 실행
 
-코드 복사
 ./mvnw spring-boot:run
