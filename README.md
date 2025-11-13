@@ -18,7 +18,7 @@ Java와 Spring Boot를 학습하며 만든 백엔드 학습용 및 포트폴리�
 ## 실행 방법
 1. 프로젝트 클론
 
-git clone https://github.com/M1ngyu-Lee/java-backend-study.git
+git clone https://github.com/M1ngyu-Lee/java-backend-study.git 
 cd java-backend-study/project
 
 2. Spring Boot 실행
